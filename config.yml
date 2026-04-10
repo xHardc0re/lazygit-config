@@ -218,10 +218,6 @@ git:
   overrideGpg: false
   # If true, do not allow force pushes
   disableForcePushing: true
-  # See https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md#predefined-commit-message-prefix
-  commitPrefix:
-    - pattern: ""
-      replace: ""
   # See https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md#predefined-branch-name-prefix
   branchPrefix: ""
   # If true, parse emoji strings in commit messages e.g. render :rocket: as 🚀
